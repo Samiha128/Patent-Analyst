@@ -98,7 +98,7 @@ The architecture of the project consists of:
 3. **Translation Module**: For converting feedback into 133 different languages.
 4. **Chatbot Module**: For interactive user assistance.
 
-![Project Architecture](path_to_your_architecture_diagram.png)
+![Project Architecture](./projet_machine_learning/report/sentiment.png)
 
 ## 📞 Contact
 For any questions or issues, feel free to reach out:
